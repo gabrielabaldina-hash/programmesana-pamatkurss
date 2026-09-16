@@ -1,1 +1,1 @@
-print("Esmu gatava macities!!")
+print("Sis bus jautri!!!!")
