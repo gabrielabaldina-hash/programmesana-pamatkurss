@@ -1,4 +1,4 @@
-# Programmesanas pamatkursa pirmais parbaudes darbs
+# Programmēšanas pamatkursa pirmais pārbaudes darbs
 Autors: **Gabriela Baldina**
 ## Palaišana
 - Python sveiciens.py
