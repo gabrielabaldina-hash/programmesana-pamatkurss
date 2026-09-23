@@ -1,3 +1,3 @@
 # Programmēšana - pamatkurss
 
-Autors: **Gabriela Baldiņa**
+# Gabriela Baldiņa ir autore
