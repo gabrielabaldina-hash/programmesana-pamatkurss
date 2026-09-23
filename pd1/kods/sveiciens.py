@@ -1,3 +1,2 @@
-# Programmēšana - pamatkurss
-
-# Gabriela Baldiņa ir autore
+print("Programmēšana - pamatkurss")
+print("Gabriela Baldiņa ir autore šim darbam")
